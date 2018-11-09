@@ -32,6 +32,7 @@ public class Tragaperras {
     int apuesta;
     int creditogastado;
 
+
     void start() {
         do {
             pedirapuesta();
